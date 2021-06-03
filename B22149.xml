@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the raising of 66666 l. 13 s. 4 d. by way of loane, for the  better enabling of our brethern of Scotland for our assistance and defence in this common cause of our religion and liberty.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22149</idno><idno type="EEBO-CITATION">12090340</idno>
+  <idno type="VID">196913</idno>
+  <idno type="EEBO-PROQUEST">2240951348</idno>
+  
+            <idno type="STC">Wing E2021</idno>
+            <idno type="OCLC">12090340</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E73, no 6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the raising of 66666 l. 13 s. 4 d. by way of loane, for the  better enabling of our brethern of Scotland for our assistance and defence in this common cause of our religion and liberty.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaikelocke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 27, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition, p. 8 begins: places.</note>
+                  <note>Not to be confused with the ordinance of the same title published in 1644.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  England.</term>
+               <term type="topical_term">Debts, Public --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196913:1"/>
+            <p>
+               <hi>AN ORDINANCE OF THE LORDS and COMMONS Assembled in Parliament, For the raising of</hi> 66666<hi>l.</hi> 13<hi>s.</hi> 4<hi>d. by way of loane, for the better enabling of our brethren of</hi> Scotland <hi>for our assistance and defence in this common cause of our Religion and Liberty.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Veneris,</hi> 27 <hi>Octob.</hi> 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>IT is this day ordered by the Lords and Commons in Parliament assembled, That the Ordinance entituled, An Ordinance of the Lords and Commons, for <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> raising of sixty six thousand, six hundred, sixty six pounds, thirteene shillings, and foure pence, by way of loane: For the better enabling of our brethren of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> for our assistance and defence in this common cause of our Religion and Liberty, shall be forthwith printed and published.</p>
+                        <closer>
+                           <signed>H. Elsynge, Cler. Parl. D Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, <hi>Printed for</hi> Lawrence Blaikelocke, <hi>within Temple-barre,</hi> Octob. 27. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="2" facs="tcp:196913:2"/>
+            <head>AN ORDINANCE OF THE Lords and Commons Assembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons assembled in Parli<g ref="char:EOLhyphen"/>ament for the better resisting and suppressing the malice of the common enemies of our Religion, Lawes, and Liberties, and for the speedier setling of a blessed Peace, have held it necessary to desire the assistance of our brethren of <hi>Scotland</hi> in this warre, who by certaine Articles or Propositions sent unto both Houses have declared their willingnesse herein. And for the better enabling them thereunto, have desired the advance of a competent summe of money from us; and whereas for the procuring thereof, the Houses have made a Committee of the Parliament and City of <hi>London,</hi> to procure by loane or otherwise the said summes of money, and have passed an Ordinance of Parliament for securing the repayment of those moneys to the persons that should lend the same. And although divers well affected persons both before and sithence the publishing of the Ordinance, have lent and subscribed to lend divers summes of money, yet very many of the most able and wealthiest persons in such places where the said Loane hath been pro<g ref="char:EOLhyphen"/>pounded, have refused to lend any competent sums of money for this purpose, notwithstanding the security tendered for the moneys desired to be borrowed of them is such, as cannot in reason bee ex<g ref="char:EOLhyphen"/>cepted
+<pb n="3" facs="tcp:196913:2"/> against. So that it may be justly feared, that the whole summe of money which we have promised to pay unto our brethren of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> will not be raised by free and voluntary loanes.</p>
+            <p>Wherefore we the Lords and Commons, considering the dange<g ref="char:EOLhyphen"/>rous estate and condition of the Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> and the great advantage and assurance that through Gods blessing we may in all humane probability expect from the assistance of our brethren of <hi>Scotland;</hi> And holding it just and most reasonable, that those who are to receive equall benefit by their assistance, should like<g ref="char:EOLhyphen"/>wise equally contribute thereunto.</p>
+            <p>Doe hereby Order, Ordaine, and Declare, that 66666 li. 13. s. 4. d. part of the sum agreed to bee paid to our brethren of <hi>Scotland</hi> by the before mentioned Articles or Propositions, shall with all convenient speed be raised by way of Loane upon such able and wealthy persons as have not already, nor shall hereafter voluntarily and proportiona<g ref="char:EOLhyphen"/>bly to their estates and abilities lend any sums of money for the pur<g ref="char:EOLhyphen"/>poses aforesaid, and according to the true intent of the said Ordi<g ref="char:EOLhyphen"/>nance of the Lords and Commons published the sixteenth day of this instant October.</p>
+            <p>The said sum to be raised within the Cities, Towns, Counties, and Places, and according to the proportions hereafter mentioned and expressed, that is to say, Within the Cities of <hi>London, Westminster,</hi> and places adjacent, within the Bils of Mortalitie, the sum of twenty six thousand six hundred threescore and six pounds thirteene shillings and foure pence. The County of <hi>Hertford</hi> three thousand pound. The County of <hi>Bedford</hi> two thousand pound. The residue of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Middlesex</hi> one thousand pound. The County of <hi>Essex</hi> five thou<g ref="char:EOLhyphen"/>sand pound. The County of <hi>Suffolke</hi> five thousand pound. The County of <hi>Norfolke,</hi> with the City and County of the City of <hi>Nor<g ref="char:EOLhyphen"/>wich</hi> six thousand pound. The County of <hi>Kent,</hi> with the City and County of the City of <hi>Canterbury</hi> six thousand pound. The residue of the County of <hi>Surrey</hi> one thousand five hundred pound. The County of <hi>Sussex</hi> foure thousand five hundred pound. The County of <hi>Cambridge</hi> with the Isle of <hi>Ely</hi> two thousand pound. The County of <hi>Huntington</hi> one thousand pound. The County of <hi>Northampton</hi> two thousand five hundred pound. The County of <hi>Rutland</hi> five hun<g ref="char:EOLhyphen"/>dred pound.</p>
+            <p>And it is further Ordered, Ordained, and Declared, That no person within any the Cities, Townes, Counties, or Places aforesaid, shall
+<pb n="4" facs="tcp:196913:3"/> be forced to lend any of the said summes, unlesse his ability and meanes livelihood in Lands, Leases, Money, and other personall estate, exceed the summe of one thousand pounds of lawfull English money. And for the equall sessi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g and apportioning the said summe of twenty six thousand pounds within the Cities of <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and other places adjacent within the Bills of Mortalitie, it is hereby further Ordered, Ordained, and Declared, That whereas the said Committee of the Parliament and City of <hi>London</hi> appoint<g ref="char:EOLhyphen"/>ed for the raising of the said summes of money for our brethren of <hi>Scotland,</hi> have heretofore within those Precincts appointed the Mi<g ref="char:EOLhyphen"/>nister, the Churchwardens, and a certaine number of other persons within each Parish, to call before them the Parishioners, and to re<g ref="char:EOLhyphen"/>ceive their voluntary Loanes, whereby, they have the better inform<g ref="char:EOLhyphen"/>ed themselves of the willingnesse or backwardnesse, and likewise of the abilities of the severall persons within those Precincts, that the said Ministers, Churchwardens, and Persons, or others as by the said Committee shall be thereunto appointed, shall rate and sesse the said severall Parishes, who are hereby required so to demeane them<g ref="char:EOLhyphen"/>selves in this service, as that the greatest Loane be set upon the most able and rich men, and who have not either upon this or the like oc<g ref="char:EOLhyphen"/>casions of money heretofore manifested their good affections to the publike.</p>
+            <p>And that the said Ministers, Churchwardens, and other persons, may the better know what proportions of Money in reference to the whole summe will be fit to be set upon each person within the Pa<g ref="char:EOLhyphen"/>rishes; power is hereby given to the said Committee of the Parlia<g ref="char:EOLhyphen"/>ment and City of <hi>London,</hi> calling unto them all or some of the per<g ref="char:EOLhyphen"/>sons aforesaid, to distribute and proportion so much of the said sum of 26666 li. 13. s. 4. d. upon each particular Parish as shall be reasonable.</p>
+            <p>And for the sessi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g and setting of the before mentioned sums to be borrowed, in each of the sayd other Cities, great Townes, Coun<g ref="char:EOLhyphen"/>ties and places upon each particular person: It is further ordered, or<g ref="char:EOLhyphen"/>dained and declared, that the sayd Committee of the Parliament and City of <hi>London,</hi> shall have power to nominate in each County, City, or great Towne, three or more persons of rank and integri<g ref="char:EOLhyphen"/>ty, which persons so named shall have power to nominate and ap<g ref="char:EOLhyphen"/>point two or more persons within each Hundred, City, or great Towne respectively, which persons so last nominated shall returne unto the other persons to be named by the said Committee, the names
+<pb n="5" facs="tcp:196913:3"/> of all such persons within the respective Hundreds, Cities and great Townes, whose ability and meanes of livelyhood in Lands, Monies, and other personall Estate, shall exceed the before mentioned summe of one thousand pounds of lawfull English money, and shall not have voluntarily lent any sum of Money to the purpose of this and the before mentioned Ordinance, proportionable to his Estate. And after such returnes the persons to be named by the sayd Committee, by and with the asistance of the said other persons that shall make such returne, shall assesse, and rate the severall Inhabitants within the said Hundreds, Cities and great Townes▪ who are hereby likewise required so to demeane themselves in this Service, as that the greatest loane be set upon the most able, and richest men, and who have not either up<g ref="char:EOLhyphen"/>on this, or the like occasions of money heretofore, manifested their good affections to the publique.</p>
+            <p>And it is hereby further ordered, ordained and declared, that the person appointed and to be appointed within the Cities of <hi>London, Westminster</hi> and other the places adjacent within the precincts of the bills of mortality, for the setting of the proportions of the sayd loans upon the particular persons there, shall returne the names of the per<g ref="char:EOLhyphen"/>sons within their severall parishes, and the sums so set upon them un<g ref="char:EOLhyphen"/>to the sayd Committee, within three dayes after the delivery of the said Ordinances unto them respectively, And the persons to be no<g ref="char:EOLhyphen"/>minated by the said Committee within the Cities, great Townes, Hundreds and other places in the Counties of <hi>Kent; Surry, Middelsex, Essex,</hi> and <hi>Hartford,</hi> shall returne the names of the persons within their severall Cities, great Townes and Hundreds, and the sums set upon them unto the said Committee, within twelve dayes after the delivery of the said Ordinances unto them respectively; And the persons to be nominated by the said Committee within the other Cities, great Townes, Counties and other places herein men<g ref="char:EOLhyphen"/>tioned, shall make the like returnes at such times as by the said Committee of the Parliament and City of London shall be directed;</p>
+            <p>And the persons hereby appointed to sesse, and set the loanes of money upon the particular persons within the Cities of <hi>London</hi> and <hi>Westminster</hi> and parts adjacent, within the precincts of the Bills of mortality, and likewise within the other Cities, great Townes and Counties, are hereby required, immediately after the setting of the said loanes, to send Tickets unto all the persons, upon whom the same shal be set, thereby to give them notice of the sums set upon them; And of
+<pb n="6" facs="tcp:196913:4"/> the persons and places, where, and to whom the said sums of money are to be paid; And in case any person upon whom any sum of mo<g ref="char:EOLhyphen"/>ney shall be set, shall not within eight dayes after the leaving of the sayd Ticket at the place of his, or her usuall aboade, or other notice, pay the same accordingly; Then the persons so fayling shall after the said eight dayes, for every day the same shall be unpaid, forfeit, and pay so much money as the Twentith part of the sums so assessed up<g ref="char:EOLhyphen"/>on him shall amount unto. And it is further ordered, ordained, and declared that the respective persons appointed, and to be appointed to <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et the said sum<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the severall Parishes, within the Cities of <hi>Lon<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> and <hi>W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stminster</hi> &amp; partes adjacent within the Bills of Mortality, or any two of them, and the respective persons appointed to set the same within the other Cities, great Townes and Counties, or any two of them respectively, are here by authorized to make and constitute Col<g ref="char:EOLhyphen"/>lectors within the respective Parishes, Cities, great Townes, and Hundreds, in such number as shall be most convenient; Who shall have power to levy such sums and forfeitures by distresse, and sale of the Goods and Chattells of the persons, that shall not pay the sums set upon them, to the persons, and in the manner in this Ordinance expressed, wheresoever the Goods and Chattells of such persons shall be or remaine within the Realme of <hi>England;</hi> And in case of refusall shall in the day-time have power to breake open the houses of such persons, and for their Paines and Travaile in the said Collections shall have 2. 8. in the pound of every sum, for which any distresse shall be made to be payd out of the Goods and Chattells of the party dist<g ref="char:EOLhyphen"/>rayned. And in case of wilfull refusall to pay the sums that shall be so set, or for want of Sufficient distresse, The bodies of such persons shal be committed to prison, there to remaine untill the Sums so set upon them, and the said forfeitures shall be fully payd; And for the better effecting thereof within the Cities of <hi>London</hi> and <hi>Westminster,</hi> and the Parts adjacent within the Bills of mortality, The respective Collect<g ref="char:EOLhyphen"/>tors shall make returne of the names of such persons unto the said Committee of the Parliament and City of <hi>London,</hi> who thereupon shall have power to commit such persons to Prison; And within the other Cities, great Townes and Counties, their respective Collectors shall make returne of the names of such persons unto the respective persons nominated by the said Committee, or any two of them, in their respective Cities, great Towns and Counties, who thereupon shall have like power to commit such persons to prison.</p>
+            <pb n="7" facs="tcp:196913:4"/>
+            <p> And the Lords and Commons doe further declare, that notwith<g ref="char:EOLhyphen"/>standing this present Ordinance for compelling the most able and rich men (who upon this or the like occasions of money have not so fully manifested their affections to the publique) to lend the said sum of 66666 l. 13 s. 4 d. part of the money agreed to be paid to our bre<g ref="char:EOLhyphen"/>thren of <hi>Scotland;</hi> their intent is, that the said Committee of the Par<g ref="char:EOLhyphen"/>liament and City of <hi>London</hi> according to the true intent of the be<g ref="char:EOLhyphen"/>fore-mentioned Ordinance of the sixteenth of this present <hi>October,</hi> shall still proceed and endeavour to advance the service of raising the residue of the said summe by voluntary loanes and contributions. And for the further encouragement of such persons as have or shall vo<g ref="char:EOLhyphen"/>luntarily lend any summes of money to that purpose, without being compelled thereunto by vertue of this present Ordinance, It is hereby Ordered, Ordained and Declared, that all such summe and summes of money as shall be so willingly lent by any person or persons whatsoever, shall be first payd: And that no part of the 66666 l. 13 s. 4 d. to be raised by vertue of this Ordinance, by the loane of any persons who shall be sessed thereunto, shall be paid untill such time as the other persons shall be fully satisfied and paid, And that the security tendered▪ to such as shall lend those moneys, and the manner of repayment thereof may be the better knowne, the said Ordinance of the 16<seg rend="sup">th</seg> of this present <hi>Octob.</hi> is herewith to be printed. And it is hereby declared, that after the payment of the said summes of money voluntarily lent, and to be lent as aforesaid, the security in the said Or<g ref="char:EOLhyphen"/>dinance mentioned, shal be extended and continue for the repayment of the 66666 l, 13 s. 4 pence▪ to be lent upon this present Ordinance, in such manner as in the said Ordinance is mentioned, for and in be<g ref="char:EOLhyphen"/>halfe of the summes of money that shall be borrowed, according to the i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tent of the said Ordinance. And it is further ordered that the summes of money to be lent upon this present Ordinance within the Cities of <hi>London</hi> and <hi>Westminster</hi> and places within the bills of mor<g ref="char:EOLhyphen"/>tality, shall be paid to <hi>Richard Waring</hi> and <hi>Michael Herring</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> appointed to be Treasurers by the before-mentioned Ordi<g ref="char:EOLhyphen"/>nance, in such manner, and upon such Acquittances as therein are mentioned, Who thereupon are likewise to receive the same allow<g ref="char:EOLhyphen"/>ances, as in the said Ordinance is expressed; And that the summes of money to be lent upon this present Ordinance in other the Cities, great Townes, and places, shall be paid unto such persons, and in such
+<pb n="8" facs="tcp:196913:5"/> places, as the persons named by the said Committee of Parliament and City of <hi>London</hi> shall be appointed. And that any writing under the hands of any such persons, testifying the receipt of any such sums of money, as shall be lent by vertue of this Ordinance, shall sufficiently inable the persons that shall lend such summes, to demand and receive the same. And for the encouragement of such persons as shall be imployed in carrying the said Ordinances and Tickets, and receiving of the money to be lent, or otherwise, in the execution of the said Ordinances, The Committee of Parliament, and City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> are hereby authorised to make such allowances and satisfaction unto them, for their paines to be sustained therein, as shall be meet; And for the more speedy and effectuall execution of the said Ordi<g ref="char:EOLhyphen"/>nances, The said Committee are hereby authorised and required to take care of the execution of them, and to give such orders and directions to that purpose, and for the equall and Indifferent procee<g ref="char:EOLhyphen"/>dings therein to the respective persons that shall be imployed therein, as may render them most effectuall to those ends for which they were made. And of their proceedings therein the Houses are resolved to take a strict account.</p>
+            <p>Provided, that no Member of either House of Parliament be assessed by this Ordinance, but by the respective Houses whereof they are Members.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
